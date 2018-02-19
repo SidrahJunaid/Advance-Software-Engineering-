@@ -3,7 +3,7 @@ Graduate course (CS551)
 
 Instructor: Professor Dr.Yugyung Lee
 
-Teaching Assistant:Ragunandan Rao,Pradumna Doddla,Ravi Kran
+Teaching Assistants:Ragunandan Rao,Pradumna Doddla,Ravi Kran
 
 Lab Assignment 2:https://github.com/SidrahJunaid/Advance-Software-Engineering-/tree/master/Lab2
 
