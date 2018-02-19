@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html ng-app="myService">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+  <title></title>
+
+  <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+  <link href="css/ionic.app.css" rel="stylesheet">
+  -->
+
+  <!-- ionic/angularjs js -->
+  <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+  <!-- cordova script (this will be a 404 during development) -->
+  <script src="cordova.js"></script>
+
+  <!-- your app's js -->
+  <script src="lib/angular.min.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/controller.js.js"></script>
+
+</head>
+<body ng-app="MyController">
+
+<ion-pane>
+  <ion-header-bar class="bar-positive">
+    <h1 class="title">Volume Calculation of a Rectangle</h1>
+  </ion-header-bar>
+  <ion-content>
+    <div>
+      <form action="" class="form-horizontal" action="/" id="index2.html">
+
+        <div class="list">
+
+
+          <label class="item item-input">
+            <input type="number" placeholder="Value" ng-model="val">
+          </label>
+        </div>
+
+
+
+
+        <button class="button button-positive" ng-click="calculatevolume(val)">
+          Volume of a cube
+        </button>
+        512
+
+    </div>
+  </ion-content>
+</ion-pane>
+</body>
+</html>
+
